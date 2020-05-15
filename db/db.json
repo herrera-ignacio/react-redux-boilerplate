@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode",
+      "body": "test body",
+      "important": true
+    },
+    {
+      "title": "test",
+      "author": "nacho",
+      "important": false,
+      "body": "testing",
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "title": "test",
+      "author": "test",
+      "body": "asdasd",
+      "important": false,
+      "id": 6
+    }
+  ]
+}
